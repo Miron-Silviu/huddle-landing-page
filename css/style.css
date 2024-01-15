@@ -20,3 +20,33 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+/* Hero Section */
+
+.hero-section {
+  background: url(../images/bg-hero-mobile.svg);
+}
+
+.hero-image-hero-button {
+  display: flex;
+  justify-content: space-between;
+  margin: 1.5rem 1rem;
+}
+
+.img-thumbnail {
+  width: 8rem;
+}
+a {
+  text-decoration: none;
+}
+.img-thumbnail {
+  border: none;
+}
+.hero-button {
+  background-color: rgb(255, 255, 255);
+  color: var(--very-dark-cyan);
+  border-radius: 50px;
+  padding: 0 1.5rem;
+  border: none;
+  font-weight: 700;
+}
