@@ -12,13 +12,14 @@
 
   /* Fonts */
 
-  --font-family: "Poppins", sans-serif;
-  --font-family: "Open Sans", sans-serif;
+  --font-poppins: "Poppins", sans-serif;
+  --font-sans: "Open Sans", sans-serif;
 
   /* margin */
 
   --margin-small: 1.5rem 1rem;
 }
+
 * {
   margin: 0;
   padding: 0;
@@ -34,7 +35,7 @@
 .hero-image-hero-button {
   display: flex;
   justify-content: space-between;
-  margin: var(--margin-small);
+  padding: 2rem 1rem 0;
 }
 
 .img-thumbnail {
@@ -53,4 +54,20 @@ a {
   padding: 0 1.5rem;
   border: none;
   font-weight: 700;
+  cursor: pointer;
+}
+
+.hero-info {
+  display: flex;
+  flex-direction: column;
+}
+.description-info {
+  padding: 0 2.6rem 1rem;
+}
+.hero-button-info {
+  background: var(--primary-pink);
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  font-family: var(--font-sans);
 }
