@@ -14,6 +14,10 @@
 
   --font-family: "Poppins", sans-serif;
   --font-family: "Open Sans", sans-serif;
+
+  /* margin */
+
+  --margin-small: 1.5rem 1rem;
 }
 * {
   margin: 0;
@@ -30,7 +34,7 @@
 .hero-image-hero-button {
   display: flex;
   justify-content: space-between;
-  margin: 1.5rem 1rem;
+  margin: var(--margin-small);
 }
 
 .img-thumbnail {
