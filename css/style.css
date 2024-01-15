@@ -28,6 +28,9 @@
 
 /* Hero Section */
 
+body {
+  font-size: 15px;
+}
 .hero-section {
   background: url(../images/bg-hero-mobile.svg);
 }
@@ -61,13 +64,35 @@ a {
   display: flex;
   flex-direction: column;
 }
+
+.title-hero-info {
+  font-family: var(--font-poppins);
+  padding: 0 1.3rem;
+  font-weight: 600;
+}
+
 .description-info {
   padding: 0 2.6rem 1rem;
+  font-family: var(--font-sans);
+  font-weight: 600;
 }
+
 .hero-button-info {
   background: var(--primary-pink);
   border: none;
   border-radius: 50px;
   cursor: pointer;
+  font-family: var(--font-sans);
+  font-weight: 400;
+}
+
+/* Grow Container */
+
+.grow-container-title {
+  font-family: var(--font-poppins);
+  font-weight: 600;
+}
+
+.grow-container-description {
   font-family: var(--font-sans);
 }
