@@ -88,11 +88,11 @@ a {
 
 /* Grow Container */
 
-.grow-container-title {
+.card-container-title {
   font-family: var(--font-poppins);
   font-weight: 600;
 }
 
-.grow-container-description {
+.card-container-description {
   font-family: var(--font-sans);
 }
