@@ -133,12 +133,17 @@ a {
   font-family: var(--font-sans);
   color: var(--very-pale-cyan);
   padding: 1.5rem 0 0 1rem;
+  margin: 0;
 }
 
+.email-img {
+  width: 1rem;
+  height: 1rem;
+  margin: 0 1rem 0 2rem;
+}
 .email {
   font-family: var(--font-sans);
   color: var(--very-pale-cyan);
-  padding: 1.8rem 0 0 1rem;
 }
 
 ul li {
