@@ -163,3 +163,14 @@ li a {
   padding: 0.5rem 0;
   font-weight: 600;
 }
+
+.connect-list {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.copyright {
+  color: var(--very-pale-cyan);
+}
