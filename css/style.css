@@ -140,3 +140,21 @@ a {
   color: var(--very-pale-cyan);
   padding: 1.8rem 0 0 1rem;
 }
+
+ul li {
+  list-style-type: none;
+}
+
+li a {
+  margin-top: 2rem;
+  color: var(--very-pale-cyan);
+  font-family: var(--font-sans);
+}
+
+.menu {
+  margin-top: 2rem;
+}
+.item {
+  padding: 0.5rem 0;
+  font-weight: 600;
+}
