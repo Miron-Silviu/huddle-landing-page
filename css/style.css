@@ -174,3 +174,7 @@ li a {
 .copyright {
   color: var(--very-pale-cyan);
 }
+
+h3 {
+  font-family: var(--font-poppins);
+}
