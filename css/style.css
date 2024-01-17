@@ -178,3 +178,16 @@ li a {
 h3 {
   font-family: var(--font-poppins);
 }
+
+@media screen and (min-width: 1024px) {
+  .hero-section {
+    background: url(../images/bg-hero-desktop.svg);
+  }
+  .hero-image-hero-button {
+    display: flex;
+    justify-content: space-between;
+  }
+  .hero-info-img {
+    width: 10rem;
+  }
+}
