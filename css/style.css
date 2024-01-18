@@ -227,4 +227,16 @@ h3 {
     width: 30%;
     margin-top: 5rem;
   }
+
+  .card-container {
+    align-items: center;
+    display: flex;
+    padding: 0 5rem;
+  }
+  .main-image {
+    width: 20%;
+  }
+  .grow-container-description {
+    width: 50%;
+  }
 }
