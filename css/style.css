@@ -183,11 +183,38 @@ h3 {
   .hero-section {
     background: url(../images/bg-hero-desktop.svg);
   }
-  .hero-image-hero-button {
+  /* .hero-image-hero-button {
     display: flex;
     justify-content: space-between;
+  } */
+
+  .hero-image-hero-button {
+    margin: 0 3rem;
   }
-  .hero-info-img {
-    width: 10rem;
+  .hero-information {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 3rem;
+  }
+  .hero-info-section {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    width: 40%;
+  }
+  .title-hero-info {
+    width: auto;
+  }
+  .hero-button-info {
+    width: 50%;
+    margin-left: 1rem;
+  }
+  .description-info {
+    text-align: left;
+  }
+  .hero-info {
+    width: 30%;
+    margin-top: 5rem;
   }
 }
