@@ -178,15 +178,25 @@ li a {
 h3 {
   font-family: var(--font-poppins);
 }
+@media screen and (min-width: 320px) {
+  .hero-information {
+    text-align: center;
+  }
+  .hero-button-info {
+    width: 70%;
+    padding: 1rem;
+  }
+  .hero-info {
+    margin: auto;
+    width: auto;
+    padding: 4rem 2rem;
+  }
+}
 
 @media screen and (min-width: 1024px) {
   .hero-section {
     background: url(../images/bg-hero-desktop.svg);
   }
-  /* .hero-image-hero-button {
-    display: flex;
-    justify-content: space-between;
-  } */
 
   .hero-image-hero-button {
     margin: 0 3rem;
