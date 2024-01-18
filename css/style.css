@@ -249,4 +249,11 @@ h3 {
   .card-container-description {
     width: 50%;
   }
+  .footer-section {
+    margin-top: 15%;
+    display: flex;
+  }
+  .footer-image {
+    width: 10%;
+  }
 }
