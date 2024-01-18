@@ -239,4 +239,14 @@ h3 {
   .grow-container-description {
     width: 50%;
   }
+  .flowing-conversation {
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    align-items: center;
+  }
+
+  .card-container-description {
+    width: 50%;
+  }
 }
