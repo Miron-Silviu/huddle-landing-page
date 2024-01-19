@@ -102,7 +102,6 @@ a {
 .footer-section {
   background: var(--very-dark-cyan);
   display: flex;
-  flex-direction: column;
   margin-top: 70%;
 }
 
@@ -249,11 +248,17 @@ h3 {
   .card-container-description {
     width: 50%;
   }
+
+  /* Footer */
+
   .footer-section {
-    margin-top: 15%;
+    margin-top: 10%;
     display: flex;
+    justify-content: space-evenly;
+    align-items: center;
   }
   .footer-image {
-    width: 10%;
+    width: 20%;
+    margin: 10% 0 0 2rem;
   }
 }
