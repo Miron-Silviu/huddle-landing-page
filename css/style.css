@@ -178,6 +178,11 @@ h3 {
   font-family: var(--font-poppins);
 }
 @media screen and (min-width: 100px) and (max-width: 539px) {
+  .flowing-conversation,
+  .user,
+  .grow {
+    text-align: center;
+  }
   .title-hero-info {
     padding: 0 1.3rem;
   }
@@ -267,6 +272,11 @@ h3 {
   .footer-image {
     width: 20%;
     margin: 10% 0 0 2rem;
+  }
+  .flowing-conversation,
+  .user,
+  .grow {
+    text-align: center;
   }
 }
 
