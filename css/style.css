@@ -334,8 +334,18 @@ h3 {
     width: 20%;
     margin: 10% 0 0 2rem;
   }
-  .menu,
   .connect-container {
-    margin: 10% 0 0 2rem;
+    margin-top: 3%;
+  }
+  .menu {
+    margin: 5% 0 0 2rem;
+  }
+  .footer-container {
+    display: flex;
+
+    margin: 0 3rem;
+  }
+  .copyright {
+    margin-top: 10rem;
   }
 }
