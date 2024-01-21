@@ -13,8 +13,6 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -24,38 +22,32 @@ In this project was build a fully responsive website for building communities.
 
 Users should be able to:
 
-- View the optimal layout for the site depending on their device's screen size
+- View the optimal layout for the site depending on their device's screen size.
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](image.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://miron-silviu.github.io/huddle-landing-page/)
 
 ## My process
 
+I created the components in index.html and I used bootstrap to style those components and then I used css to complete the style process.
+
 ### Built with
 
+- Mobile-first workflow
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mobile-first workflow
+  -css responsive design
 
 ### What I learned
 
-### Continued development
+I learned how to use bootstrap classes, and how to import from bootstrap using a direct link.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com)
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-## Acknowledgments
+- [Example resource 1](https://michalsnik.github.io/aos/)

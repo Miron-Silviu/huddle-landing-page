@@ -1,8 +1,6 @@
-@import url(./normalize.css);
-
+@import "./normalize.css";
 :root {
   /* Primary */
-
   --primary-pink: hsl(322, 100%, 66%);
 
   /* Neutral */
