@@ -22,7 +22,7 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size.
 
 # LINK
- [CLICK ME FOR LIVE VIEW](https://miron-silviu.github.io/huddle-landing-page/)
+ [VIEW DEMO](https://miron-silviu.github.io/huddle-landing-page/)
   
 ## Screenshot
 
