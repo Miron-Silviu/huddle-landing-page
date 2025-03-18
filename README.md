@@ -11,6 +11,9 @@
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 
+ # Links
+[![DEPLOYMENT](https://github.com/Miron-Silviu/Guess-my-Number/blob/main/images/Frame%201.png)](https://miron-silviu.github.io/huddle-landing-page/)
+
 ## Overview
 
 In this project was build a fully responsive website for building communities.
@@ -21,9 +24,6 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size.
 
-# LINK
- [VIEW DEMO](https://miron-silviu.github.io/huddle-landing-page/)
-  
 ## Screenshot
 
 ![](image.png)
